@@ -1,0 +1,12 @@
+pip install pandas openpyxl scikit-learn matplotlib
+
+then
+
+python -m pip install streamlit openpyxl matplotlib
+
+
+
+for app
+
+python -m streamlit run "D:\Study\Year 3\S1\Electromagnetic Waves\Project\Group 5\Al Model\app.py"
+
